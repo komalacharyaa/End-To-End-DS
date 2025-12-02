@@ -73,5 +73,6 @@ Connected the MySql database with the Tableau and extracted out the stored datab
 * Reasons vs Probability
 * Transportation Expense vs Probability
 
-[Tableau Visualization](https://github.com/komalacharyaa/End-To-End-DS/blob/master/visualization.png)
+![Tableau Visualization](https://github.com/komalacharyaa/End-To-End-DS/blob/master/visualization.png)
+
 
