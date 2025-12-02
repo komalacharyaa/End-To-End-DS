@@ -73,4 +73,5 @@ Connected the MySql database with the Tableau and extracted out the stored datab
 * Reasons vs Probability
 * Transportation Expense vs Probability
 
-[Tableau Public Visualization](https://public.tableau.com/app/profile/arkya.bagchi/viz/AbsenteeismDashboard_16266017314520/Dashboard1)
+[Tableau Visualization](https://github.com/komalacharyaa/End-To-End-DS/blob/master/visualization.png)
+
